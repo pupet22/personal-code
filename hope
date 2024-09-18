@@ -16,7 +16,7 @@ public static void main(String[] arg){
         System.out.println("'If the Spirit of him who raised Jesus from the dead dwells in you, he who raised Christ Jesus \n from the dead will also give life to your mortal bodies through his Spirit who dwells in you.' "
                 + "         \n                                                                                        Romans 8:11 ");
     }else if(feeling == 2){
-        System.out.println("'That is why, for Christ's sake, delight in weaknesses, in insults, in hardships,\n in persecutions, in difficulties. For when I am weak, I am strong' \n"
+        System.out.println("'That is why, for Christ's sake, I delight in weaknesses, in insults, in hardships,\n in persecutions, in difficulties. For when I am weak, I am strong' \n"
                 + "                                              2 Corinthians 12:10");
     }else if(feeling == 3){
         System.out.println("'Thanks be to God for His indescribable gift' \n             "
